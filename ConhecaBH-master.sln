@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConhecaBH-master", "ConhecaBH-master.csproj", "{480F249E-F3E9-F575-119A-238910410831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConhecaBH-master.Editor", "ConhecaBH-master.Editor.csproj", "{CE1A8343-C182-DEE5-4748-78A62DF5ED2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480F249E-F3E9-F575-119A-238910410831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480F249E-F3E9-F575-119A-238910410831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480F249E-F3E9-F575-119A-238910410831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480F249E-F3E9-F575-119A-238910410831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1A8343-C182-DEE5-4748-78A62DF5ED2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1A8343-C182-DEE5-4748-78A62DF5ED2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1A8343-C182-DEE5-4748-78A62DF5ED2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1A8343-C182-DEE5-4748-78A62DF5ED2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
