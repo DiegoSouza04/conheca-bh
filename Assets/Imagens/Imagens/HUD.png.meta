@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b06ae6472fb7f6442a985eb23de961b3
-timeCreated: 1498765695
+timeCreated: 1498793774
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -39,6 +39,7 @@ TextureImporter:
     21300064: HUD_34
     21300066: HUD_35
     21300068: HUD_31
+    21300070: HUD_33
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -516,6 +517,19 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
+      name: HUD_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 644
+        width: 263
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
       name: HUD_32
       rect:
         serializedVersion: 2
@@ -523,6 +537,19 @@ TextureImporter:
         y: 622
         width: 335
         height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUD_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 645
+        width: 163
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,19 +576,6 @@ TextureImporter:
         y: 11
         width: 964
         height: 370
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: HUD_31
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 613
-        width: 487
-        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

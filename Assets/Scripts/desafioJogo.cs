@@ -66,7 +66,7 @@ public class desafioJogo : MonoBehaviour {
 			estrela3.SetActive (false);
 		}
 		
-		txtInfoResultado.text = "Você acertou " + acertos.ToString () + " de " + numeroQuestoes.ToString() + " questões!";
+		txtInfoResultado.text = "Você acertou " + acertos.ToString () + " de 5 questões!";
 		infoResultado.SetActive (true);
 		btnPlayQuiz.interactable = true;
 	}
