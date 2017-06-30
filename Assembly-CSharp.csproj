@@ -50,6 +50,12 @@
      <Compile Include="Assets\Scripts\MenuOpcoes.cs" />
      <Compile Include="Assets\Scripts\MenuRegioes.cs" />
      <Compile Include="Assets\Scripts\Mineirao.cs" />
+     <Compile Include="Assets\Scripts\comandosBasicos.cs" />
+     <Compile Include="Assets\Scripts\desafioInfo.cs" />
+     <Compile Include="Assets\Scripts\desafioJogo.cs" />
+     <Compile Include="Assets\Scripts\moveOffset.cs" />
+     <Compile Include="Assets\Scripts\notaFinal.cs" />
+     <Compile Include="Assets\Scripts\responder.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
